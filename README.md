@@ -73,3 +73,9 @@ romantika
 
 ## A szerző:
 Fryderyk Franciszek Chopin (1810-1849)
+- latin születésű
+- merített ihletet a lengyel népzenéből
+- egész életében gyenge egészséggel küzdött, valószínűleg tuberkulózisban szenvedett
+- 39 évesen hunyt el Párizsban
+## A kordszak
+romantika
