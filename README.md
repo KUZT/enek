@@ -47,16 +47,29 @@ romantika
 
 # Friedrich Silcher - Die Lorelei (Hímes rétek, lombos erdő)
 
-# A dal:
+## A dal:
 - Heinrich Heine írta
 - Tragikus történetet mesél el egy titokzatos női alakról, aki a Rajna folyónál ülve elbűvöli a hajósokat, akik emiatt veszélybe kerülnek.
 - magyar verzióban az eredeti történet jelentése kissé módosul, és inkább a természet szépségére, a tájra koncentrál
 
-# A szerző:
+## A szerző:
 Friedrich Silcher (1789–1860)
 - német népzene gyűjtésében és a népdalok népszerűsítésében játszott
 - népdalkultúra szerves része legyen a német zenei oktatásna
 - kórusművek és népdal feldolgozások
 
-# A kordszak
+## A kordszak
 romantika
+
+---
+
+# F. Chopin - A gyűrű
+
+## A dal:
+- Op. 74 No. 14
+- Stefan Witwicki (lengyel nyelvű vers)
+- 1836
+- népies jellegű, nagyon bensőséges hangulatú
+
+## A szerző:
+Fryderyk Franciszek Chopin (1810-1849)
